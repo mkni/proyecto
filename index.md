@@ -1,4 +1,4 @@
-![Image](mylc.png)
+![Image](mylc2.png)
 ## My learning Coach
 
 Bienvenido
