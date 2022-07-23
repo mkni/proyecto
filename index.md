@@ -9,23 +9,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5GjsmMQMBvq8FAN55j0FGQIvSOwtallvfKLNNnJ0uEn3mlg/viewform?embedded=true" width="640" height="1131" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
